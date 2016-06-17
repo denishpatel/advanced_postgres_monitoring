@@ -1,0 +1,21 @@
+List of tools used:
+
+Open Source
+# Cacti
+# Nagios
+# Ganglia
+# Sensu
+# Collectd
+
+Closed source
+
+Self Hosted
+ # Zennoss 
+ # Zabbix
+
+SAAS Based 
+ # Circonus
+ # Vividcortex
+ # New Relic
+ # DataDog
+ # Wavefront
