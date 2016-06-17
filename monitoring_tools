@@ -3,6 +3,7 @@ List of tools used:
 Open Source
 # Cacti
 # Nagios
+# icinga
 # Ganglia
 # Sensu
 # Collectd
@@ -10,7 +11,7 @@ Open Source
 Closed source
 
 Self Hosted
- # Zennoss 
+ # Zenoss 
  # Zabbix
 
 SAAS Based 
